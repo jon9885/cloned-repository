@@ -1,6 +1,6 @@
 # TOP-OPT-Plates [![MATLAB](https://img.shields.io/badge/Made%20with-MATLAB-0076A8?logo=mathworks&&labelColor=34495e)](https://www.mathworks.com/products/matlab.html)
 
-MATLAB Code for Topology Optimization of Plates
+MATLAB Code for Topology Optimization of Plates (test)
 
 <img align="center" src="example-deformed.png" alt="Deformed configuration">
 <img align="center" src="example-design.png" alt="Optimal design">
